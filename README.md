@@ -25,7 +25,6 @@ Maven Multi-Module Projekt mit folgenden Modulen:
 - **BungeeCord API** (`net.md-5:bungeecord-api:1.21-R0.1-SNAPSHOT`)
 - **MongoDB** mit **Morphia 2.x** (`dev.morphia.morphia:morphia-core:2.4.14`)
 - **Redis** mit **Jedis 6** (`redis.clients:jedis:6.0.0`)
-- **OkHttp** (`com.squareup.okhttp3:okhttp:4.12.0`)
 - **Guava** (`com.google.guava:guava:33.0.0-jre`)
 - **Google Guice** (`com.google.inject:guice:7.0.0`)
 - **Lombok** (`org.projectlombok:lombok:1.18.38`)
