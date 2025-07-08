@@ -277,7 +277,7 @@ public class ChatMessage {
 
 ### 6.2 Code-Qualität
 - Clean Code Prinzipien
-- **Conventional Commits** für alle Commits
+- **[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)** für alle Commits
 - Java 21 Features nutzen (Records, Pattern Matching, Text Blocks)
 - Dependency Injection mit Guice
 - Sinnvolle Package-Struktur
@@ -327,7 +327,7 @@ public class ChatMessage {
 ### Lieferumfang
 - **Git Repository** mit:
   - Funktionierendem Maven Multi-Module Build
-  - Saubere Commit-Historie (Conventional Commits)
+  - Saubere Commit-Historie ([Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/))
   - Branch-Strategie
   
 - **README.md** mit:
