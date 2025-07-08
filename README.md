@@ -352,13 +352,6 @@ public class ChatMessage {
 - **Deadline:** 10 Tage nach Aufgabenerhalt
 - **Review:** Code Review + Funktionstest + Technisches Gespräch
 
-### Bonus-Features (Optional)
-- Web-Dashboard für Report-Verwaltung
-- REST API für externe Integration
-- Kubernetes Deployment Configs
-- GitHub Actions CI/CD Pipeline
-- Erweiterte Statistik-Visualisierungen
-
 ---
 
 **Wichtige Hinweise:**
