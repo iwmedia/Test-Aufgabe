@@ -256,7 +256,7 @@ public class ChatMessage {
 ### 5.3 Template-System
 - Templates als MongoDB Collection
 - Dynamisch erweiterbar
-- Struktur: id, name (DE/EN), description (DE/EN)
+- Struktur: id, name, description
 - Hot-Reload fähig
 
 ### 5.4 Externe API Integration
