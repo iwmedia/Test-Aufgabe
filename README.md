@@ -291,34 +291,33 @@ public class ChatMessage {
 
 ## 7. Bewertungskriterien
 
-1. **Architektur & Modularität** (20%)
+1. **Architektur & Modularität**
    - Saubere Module-Trennung
    - Wiederverwendbare Komponenten
    - Klare Interfaces
 
-2. **Asynchrone Programmierung** (20%)
+2. **Asynchrone Programmierung**
    - Korrekte Scheduler-Nutzung
    - Thread-Sicherheit
    - Performance-Optimierung
 
-3. **Datenbank & Messaging** (15%)
+3. **Datenbank & Messaging**
    - Effiziente Queries
    - Korrekte Indizierung
    - Fehlerbehandlung
 
-4. **GUI & User Experience** (15%)
+4. **GUI & User Experience**
    - SmartInventory Implementation
    - Floodgate Forms
    - Intuitive Bedienung
 
-5. **Multi-Proxy Support** (15%)
+5. **Multi-Proxy Support**
    - Chat-Log Caching
    - Cross-Proxy Notifications
    - Konsistenz über Instanzen
 
-6. **Code-Qualität & Testing** (15%)
+6. **Code-Qualität & Testing**
    - Clean Code
-   - Test Coverage (min. 70% Business Logic)
    - Dokumentation
 
 ## 8. Abgabe
